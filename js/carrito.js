@@ -14,5 +14,10 @@ function cargarEventos(){
  */
 }
 
+function agregarProducto(event){
+    event.preventDefault();
+
+}
+
 
 
